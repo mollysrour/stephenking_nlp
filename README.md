@@ -8,6 +8,7 @@ Unzip the training checkpoints folder
 In command line:
 
 pip install -r requirements.txt
+
 python api.py
 
 Go to this address: http://127.0.0.1:5000/apidocs/#/default/post_Stephen_King_Bot
